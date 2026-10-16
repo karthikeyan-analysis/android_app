@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "379946263512",
+    "project_id": "karthikeyan-analysis",
+    "storage_bucket": "karthikeyan-analysis.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379946263512:android:c5fbe80a84f249ad9248ad",
+        "android_client_info": {
+          "package_name": "com.karthikeyananalysis.student"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379946263512-kujfe5jivo5dedpdosftad0pqkthr3f6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.karthikeyananalysis.student",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "379946263512-v42s2bdt6kdqi46ns490kju4selghq3l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.karthikeyananalysis.student",
+            "certificate_hash": "62c83cfa676e902a9faf2a64a6a7afb597fe0f6d"
+          }
+        },
+        {
+          "client_id": "379946263512-qsdfrn6orn9oq266j7o16jeahr26ruq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr4OJ2xnJK6I_Toe5uXa8lI2OBryixDM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379946263512-qsdfrn6orn9oq266j7o16jeahr26ruq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

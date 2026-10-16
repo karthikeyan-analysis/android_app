@@ -1,0 +1,45 @@
+{
+  "expo": {
+    "name": "Karthikeyan Analysis",
+    "slug": "karthikeyan-analysis",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.karthikeyananalysis.student"
+    },
+    "android": {
+      "package": "com.karthikeyananalysis.student",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "backgroundColor": "#EEF2FF",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "permissions": [
+        "android.permission.CAMERA",
+        "android.permission.RECORD_AUDIO",
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE"
+      ],
+      "googleServicesFile": "./google-services.json",
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "@react-native-google-signin/google-signin",
+      "expo-web-browser",
+      "expo-video"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "64607ed3-4288-4f3a-b535-759caad37be0"
+      }
+    }
+  }
+}
